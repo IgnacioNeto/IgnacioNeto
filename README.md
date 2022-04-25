@@ -1,6 +1,6 @@
 - 👋 Olá, Eu @IgnacioNeto estudante: Técnico em Informática para Internet no Senac.
 - 👀 Estou interessado em: HTML, CSS, JavaScript, Visual Studio e Android Studio. 
-- 🌱 Estou atualmente aprendendo: HTML5 e CSS3
+- 🌱 Estou atualmente aprendendo: JS, PHP e MySQL.
 - 💞️ Estou criando meu perfil para colaborar e aprender sobre programação.
 - 📫 Me encontre no meu perfil.
 

@@ -1,18 +1,21 @@
-<div align="center">
+<div align="left">
 
 
-# Hi, I'm Ignacio Neto! 👋
- Software Developer from Brazil 
-  <br>
- :brazil_flag:  He/Ele
+# Olá, Sou o Ignacio Neto! 👋
+Desenvolvedor de sistemas e professor no sistema S
+  <br><br>
+👀 Estou interessado em: HTML, CSS, JavaScript, PHP, Visual Studio e Android Studio.<br>
+🌱 Estou atualmente lecionando no curso Técnico em desenvolvimento de sistemas.<br>
+💞️ Estou criando meu perfil para colaborar e aprender sobre programação.<br>
+📫 Me encontre no meu perfil.<br>
 </div>
 <br>
 
 <div style="display: inline_block">
 
 <div style="display: inline_block">
-<div align="center">
-  :iphone: Contact me: 
+<div align="left">
+  :iphone: Meus contatos: 
   <div style="display: inline_block"><br>
     <a href="mailto:ignacio.cunha.neto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ignacio-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -21,27 +24,9 @@
   
 
  
-<div align="center">
-            :books: I’m currently learning:
-  <div style="display: inline_block"><br>
-
-        <img align="center" alt="ig-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="ig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="ig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-        <img align="center" alt="ig-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-    </div> 
-  
-</div> 
-
-</div>
 
 
-
-<br><br>
-
-<div align="center">
-    <a href="https://github.com/IgnacioNeto">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ignacio-Neto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Neto&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+<!---
+IgnacioNeto/IgnacioNeto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
